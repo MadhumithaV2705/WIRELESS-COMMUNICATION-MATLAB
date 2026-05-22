@@ -70,5 +70,7 @@ grid on;
 - Plot of transmitted binary data.
 - Plot of received data after MIMO spatial multiplexing.
 
+<img width="473" height="353" alt="image" src="https://github.com/user-attachments/assets/b666c38b-2243-4f30-8061-3fe4cfcd6f95" />
+
 ## RESULT
 Thus, the MATLAB program for spatial multiplexing in MIMO communication was successfully developed and executed. The simulation demonstrates parallel transmission and successful recovery of data using MIMO techniques.
