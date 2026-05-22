@@ -1,6 +1,4 @@
-# 📘 EXPERIMENT 1
-
-# Handoff in CDMA Systems Using MATLAB
+## 1. Develop a MATLAB program to demonstrate soft handoff in CDMA systems. 
 
 ## AIM
 To develop a MATLAB program to demonstrate soft handoff in a CDMA communication system by analyzing the received signal strength from two base stations and observing the handoff region.
@@ -85,6 +83,8 @@ legend('Base Station 1', ...
 ## OUTPUT
 - Graph showing received signal strengths from two base stations.
 - Soft handoff region highlighted near overlap area.
+
+<img width="539" height="405" alt="image" src="https://github.com/user-attachments/assets/e86b66b7-c928-432d-b135-fa4a19c421f0" />
 
 ---
 
