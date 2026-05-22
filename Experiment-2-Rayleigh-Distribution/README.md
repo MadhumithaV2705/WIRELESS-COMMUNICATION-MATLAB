@@ -1,23 +1,14 @@
-
-# 📘 EXPERIMENT 2
-
-# Generation of Rayleigh Distributed Random Variables Using MATLAB
+## 2. Develop a MATLAB program to generate Rayleigh distributed random variables.  
 
 ## AIM
 To develop a MATLAB program to generate Rayleigh distributed random variables and plot their probability density function (PDF).
-
----
 
 ## APPARATUS REQUIRED
 - MATLAB Software / GNU Octave
 - Computer System
 
----
-
 ## THEORY
 Rayleigh distribution is widely used in wireless communication to model multipath fading channels where there is no direct line-of-sight component. The distribution represents the statistical variation of signal amplitude.
-
----
 
 ## ALGORITHM
 1. Start the program.
@@ -28,8 +19,6 @@ Rayleigh distribution is widely used in wireless communication to model multipat
 6. Plot histogram and theoretical PDF.
 7. Display the generated distribution.
 8. Stop the program.
-
----
 
 ## MATLAB CODE
 
@@ -75,15 +64,9 @@ grid on;
 axis([0 15 0 0.35]);
 ```
 
----
-
 ## OUTPUT
 - Histogram of generated random variables.
 - Theoretical Rayleigh PDF curve plotted together.
 
----
-
 ## RESULT
 Thus, the MATLAB program to generate Rayleigh distributed random variables was successfully developed and executed. The generated distribution matches the theoretical Rayleigh PDF.
-
----
