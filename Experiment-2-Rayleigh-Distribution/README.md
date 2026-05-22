@@ -68,5 +68,7 @@ axis([0 15 0 0.35]);
 - Histogram of generated random variables.
 - Theoretical Rayleigh PDF curve plotted together.
 
+<img width="560" height="429" alt="image" src="https://github.com/user-attachments/assets/c8bf20af-5b55-4650-9133-4065f082a88e" />
+
 ## RESULT
 Thus, the MATLAB program to generate Rayleigh distributed random variables was successfully developed and executed. The generated distribution matches the theoretical Rayleigh PDF.
