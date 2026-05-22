@@ -3,18 +3,12 @@
 ## AIM
 To develop a MATLAB program to demonstrate soft handoff in a CDMA communication system by analyzing the received signal strength from two base stations and observing the handoff region.
 
----
-
 ## APPARATUS REQUIRED
 - MATLAB Software / GNU Octave
 - Computer System
 
----
-
 ## THEORY
 In CDMA systems, soft handoff allows a mobile user to communicate simultaneously with more than one base station while moving between cells. This reduces call drops and improves communication quality. The handoff occurs when the received signal strengths from two base stations become nearly equal.
-
----
 
 ## ALGORITHM
 1. Initialize the distance between two base stations.
@@ -27,8 +21,6 @@ In CDMA systems, soft handoff allows a mobile user to communicate simultaneously
 8. Identify the region where both received powers are nearly equal.
 9. Plot received signal strengths versus distance.
 10. Display the soft handoff region.
-
----
 
 ## MATLAB CODE
 
@@ -78,17 +70,12 @@ legend('Base Station 1', ...
 'Soft Handoff Region');
 ```
 
----
-
 ## OUTPUT
 - Graph showing received signal strengths from two base stations.
 - Soft handoff region highlighted near overlap area.
 
 <img width="539" height="405" alt="image" src="https://github.com/user-attachments/assets/e86b66b7-c928-432d-b135-fa4a19c421f0" />
 
----
-
 ## RESULT
 Thus, the MATLAB program to demonstrate soft handoff in a CDMA system was successfully implemented. The soft handoff region was observed where the mobile station maintained communication with both base stations simultaneously.
 
----
