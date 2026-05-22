@@ -1,22 +1,14 @@
-# 📘 EXPERIMENT 3
-
-# MATLAB Simulation for Receiver Diversity Systems
+## 3. Develop a MATLAB simulation for receiver diversity systems.  
 
 ## AIM
 To develop a MATLAB simulation for receiver diversity systems and analyze the improvement in signal reception using diversity techniques.
-
----
 
 ## APPARATUS REQUIRED
 - MATLAB Software / GNU Octave
 - Computer System
 
----
-
 ## THEORY
 Receiver diversity is used in wireless communication to combat fading effects by combining signals received from multiple antennas or branches. Selection diversity chooses the strongest signal among multiple received signals to improve communication reliability.
-
----
 
 ## ALGORITHM
 1. Start the program.
@@ -27,8 +19,6 @@ Receiver diversity is used in wireless communication to combat fading effects by
 6. Compare received signals.
 7. Plot the output responses.
 8. Stop the program.
-
----
 
 ## MATLAB CODE
 
@@ -69,16 +59,12 @@ title('Selection Diversity Output');
 grid on;
 ```
 
----
-
 ## OUTPUT
 - Plot of Branch 1 signal.
 - Plot of Branch 2 signal.
 - Plot of Selection Diversity output.
 
----
+<img width="539" height="409" alt="image" src="https://github.com/user-attachments/assets/2b63dbcb-0b92-4846-9949-dd76bc035cd7" />
 
 ## RESULT
 Thus, the MATLAB simulation for receiver diversity systems was successfully developed and executed. The diversity technique improved received signal quality under fading conditions.
-
----
