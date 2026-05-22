@@ -1,23 +1,14 @@
-
-# 📘 EXPERIMENT 5
-
-# Spatial Multiplexing in MIMO Communication Using MATLAB
+ ## 5. Write a MATLAB program for spatial multiplexing in MIMO communication.
 
 ## AIM
 To write a MATLAB program for spatial multiplexing in MIMO communication systems.
-
----
 
 ## APPARATUS REQUIRED
 - MATLAB Software / GNU Octave
 - Computer System
 
----
-
 ## THEORY
 Spatial multiplexing is a MIMO technique that transmits multiple data streams simultaneously through multiple antennas. It increases channel capacity and data transmission speed without requiring additional bandwidth.
-
----
 
 ## ALGORITHM
 1. Start the program.
@@ -29,8 +20,6 @@ Spatial multiplexing is a MIMO technique that transmits multiple data streams si
 7. Recover transmitted data using Zero Forcing detection.
 8. Plot transmitted and received signals.
 9. Stop the program.
-
----
 
 ## MATLAB CODE
 
@@ -77,15 +66,9 @@ title('Received Data after Spatial Multiplexing');
 grid on;
 ```
 
----
-
 ## OUTPUT
 - Plot of transmitted binary data.
 - Plot of received data after MIMO spatial multiplexing.
 
----
-
 ## RESULT
 Thus, the MATLAB program for spatial multiplexing in MIMO communication was successfully developed and executed. The simulation demonstrates parallel transmission and successful recovery of data using MIMO techniques.
-
----
